@@ -25,3 +25,4 @@
 | Evening, August 15 | Group members found that the Kimi K3 paper discussed how training with a single fixed Harness could cause a model to overfit. DeepSeek provided no official explanation. |
 | Evening, August 15 | Group members continued developing new presets based on Minimal mode and dsh-router-standard, substantially reducing token consumption while improving Flash's capabilities. DeepSeek provided no official explanation. |
 | Early morning, August 16 | Fenghe developed router-pro for V4 Pro, seeking more suitable reasoning modes and Harness configurations for Pro and Flash respectively. The exact extent of the improvement still required further testing. DeepSeek provided no official explanation. |
+| August 16, 04:30 | Preliminary findings indicated that router-pro did not noticeably improve Pro's performance. |
