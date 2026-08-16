@@ -27,3 +27,4 @@
 | Early morning, August 16 | Fenghe developed router-pro for V4 Pro, seeking more suitable reasoning modes and Harness configurations for Pro and Flash respectively. The exact extent of the improvement still required further testing. DeepSeek provided no official explanation. |
 | August 16, 04:30 | Preliminary findings indicated that router-pro did not noticeably improve Pro's performance. |
 | August 16, 07:00 | Development of Fenghe's Pro plugin was officially declared a failure. |
+| Around August 16, 20:00 | The [J-Space-Cognition-Suite-V3.6](https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6) repository was released, claiming noticeable performance improvements for both DeepSeek V4 Flash and Pro. Meanwhile, a screenshot purportedly showing a DeepSeek employee saying, “Don't rush—the big one is yet to come,” began circulating. |
