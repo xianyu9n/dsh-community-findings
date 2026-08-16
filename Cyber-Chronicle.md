@@ -28,4 +28,5 @@
 | August 16, 04:30 | Preliminary findings indicated that router-pro did not noticeably improve Pro's performance. |
 | August 16, 07:00 | Development of Fenghe's Pro plugin was officially declared a failure. |
 | Around August 16, 20:00 | The [J-Space-Cognition-Suite-V3.6](https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6) repository was released, claiming noticeable performance improvements for both DeepSeek V4 Flash and Pro. Meanwhile, a screenshot purportedly showing a DeepSeek employee saying, “Don't rush—the big one is yet to come,” began circulating. |
+| August 16 | A chat screenshot purportedly showing a DeepSeek employee saying, “Everything will be fine once prices go up / You probably can't guess how many times the GPUs for post-training would multiply if online load dropped by half,” began circulating. |
 | August 16, evening | J-Space-Cognition-Suite-V3.6 showed cases of significant performance improvement in community validation, but it was highly unstable, with performance degradation also observed in many cases. |
